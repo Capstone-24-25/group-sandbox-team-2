@@ -1,3 +1,5 @@
-# About me
+#about me
 
-I am from Sacramento.
+Hi I'm Mai. I am from Sacramento!
+
+Hi Mai! Where's your favorite place to eat in Sacramento?
