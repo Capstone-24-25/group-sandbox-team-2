@@ -1,2 +1,3 @@
 #about me
-I am from Sacramento
+
+Hi I'm Mai. I am from Sacramento!
