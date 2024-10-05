@@ -5,4 +5,4 @@ template repo for class activity on git and github in pstat197a
 
 updated october 2024
 
-Owen Philliber, Caitlyn Vasquez, Mai
+Owen Philliber, Caitlyn Vasquez, Mai Uyen Huynh
